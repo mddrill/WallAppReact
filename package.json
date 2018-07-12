@@ -1,0 +1,35 @@
+{
+  "name": "wall-app-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "auth0-js": "^9.3.2",
+    "axios": "^0.18.0",
+    "jest-cli": "^22.4.2",
+    "jwt-decode": "^2.2.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-list": "^0.8.10",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-scroll-pagination": "^0.1.10",
+    "redux": "^3.7.2",
+    "redux-form": "^7.3.0",
+    "redux-saga": "^0.16.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^22.4.2",
+    "jest-enzyme": "^6.0.2",
+    "jsdom": "^11.6.2",
+    "redux-saga-tester": "^1.0.379"
+  }
+}
